@@ -32,4 +32,15 @@ body {
  background-color: #16697A;
  padding: 0.5% 2%;
  margin-left: 75%;
+ margin-bottom: 2%;
+}
+
+#entries {
+ background-color: #16697A;
+ color: #ede7e3;
+ font-family: cursive;
+ padding: 2em;
+ max-width: 20em;
+ border: unset;
+ border-radius: 25px;
 }
